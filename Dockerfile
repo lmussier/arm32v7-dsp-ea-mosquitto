@@ -1,4 +1,4 @@
-FROM lmussier/dsp-ea-base
+FROM lmussier/arm32v7-dsp-ea-base
 
 RUN [ "cross-build-start" ]
 
